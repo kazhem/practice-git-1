@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Washington is the capital of the US
+Ottawa is the capital of Canada
